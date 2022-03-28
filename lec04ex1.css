@@ -1,0 +1,13 @@
+/*#intro {font-style: italic;}
+.term{font-weight:bold; text-decoration: underline; color:red;}
+h3 { font-style:italic }
+p { font-size:10pt;font-weight:bold }
+p {font-size: 10pt}
+.red1 {color: red;font-style: italic;}
+strong.red1 {font-size: 12pt;}
+#next {color: blue; text-align: center;}*/
+p {font-size: 10pt}
+a:link{color: blue;}
+a:visited{color: rgb(236, 12, 162);}
+h3:before{content: "◆";color: blue;}
+h3:after {content: "(ⓒsblim)";font-size: 10pt;}
